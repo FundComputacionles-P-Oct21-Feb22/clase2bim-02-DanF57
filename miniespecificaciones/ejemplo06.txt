@@ -25,6 +25,24 @@
 // 1 2 valor 7
 
 
+//  Ejemplo de uso de arreglos
+1. Inicio
+2. (notasEstudiantes(3),i[1-n])
+3. indice, i[0-n]
+4. nota, i[0-n]
+5. // proceso para ingresar datos al arreglo
+6. Para(indice<--0, indice<3, 1) haga
+7. Escribir "Ingrese nota del estudiante"
+8. Leer nota
+9. notasEstudiantes[indice] <-- nota
+10. Fin_Para
+11. // proceso para leer los datos del arreglo
+12. Para(indice<--0, indice<3, 1) haga
+13. Escribir notasEstudiantes[indice]
+14. Fin_Para
+15. Fin
+
+
 
 
 
